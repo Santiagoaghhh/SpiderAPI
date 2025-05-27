@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.background{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(180deg, rgb(201, 15, 15), rgb(0, 0, 163));
+}
+
+.container{
+    width: 90%;
+    height: 92%;
+    background-color: rgb(243, 243, 243);
+    margin: 2.5% 5%;
+    border-radius: 10px;
+    opacity: 0.6;
+}
+
