@@ -20,11 +20,12 @@
     overflow-y: scroll;
     display: flex;
     border-radius: 1rem;
+    flex-wrap: wrap;
 }
 
 .container--inyect{
     text-align: center;
-    height: 20%;
+    height: 30%;
     width: 15%;
     border-radius: 20px;
     border: 2px solid;
@@ -50,12 +51,13 @@
     text-align: center; 
     border: 0.1rem solid black;
     align-items: center;
+    overflow-y: scroll;
 }
 
 h3{
     text-align: center;
     justify-self: center;
     bottom: 50%;
-    font-size: 2rem;
+    font-size: 1.7rem;
 }
 
