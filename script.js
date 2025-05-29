@@ -14,7 +14,7 @@ fetch(API)
                     <img src="${spiderSignal[i].img}" alt="">
                 </div>
                 <div class="container--inyect__info">
-                    <h3>Name: <span>${spiderSignal[i].name}</span></h3>
+                    <h3>Name: <span>${spiderSignal[i].Name}</span></h3>
                     <h3>Year: <span>1962</span> </h3>
                 </div>
         `
